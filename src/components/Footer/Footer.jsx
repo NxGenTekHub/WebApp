@@ -65,13 +65,13 @@ const Footer = () => {
           </div>
           <div className="columnText">
             <div className="columnTextItem">
-              Phone: +1 (123) 456-7890
+              Phone: +1 (443) 254-7691
             </div>
             <div className="columnTextItem">
-              Email: <u><a href='#'>support.company@gmail.com</a></u>
+              Email: <u><a href='#'>hr@nxgentekhub.com</a></u>
             </div>
             <div className="columnTextItem">
-              Address: 321 Main Street, <br/>Austin, TX 12345
+              Address:  5023 Crape Myrtle ct, <br/>Ellicott City, MD 21042
             </div>
           </div>
         </div>
