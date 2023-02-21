@@ -28,7 +28,7 @@ const WelcomeSection = () => {
       </div>
       <div className="imageSection">
         <img 
-          src='../src/images/welcomeImage.png' 
+          src='assets/welcomeImage.png' 
           className='welcomeImage'
           ref={welcomeImageRef} 
           width={576*1.1} height={360*1.1}/>

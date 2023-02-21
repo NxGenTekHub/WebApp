@@ -25,7 +25,7 @@ const NavigationBar = () => {
         <div className="leftSection">
           <a href='https://nxgentekhub.com' target={'_blank'} style={{textDecoration: "none", outline: "none"}}>
             <div className='companyLogo'>
-              <img src='../src/images/logo1234.png'/>
+              <img src='assets/logo1234.png'/>
               <h1>NxGenTekHub</h1>
             </div>
           </a>
