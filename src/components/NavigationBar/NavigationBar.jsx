@@ -134,19 +134,19 @@ const NavigationBar = () => {
           
           <a href='https://linkedin.com' target={'_blank'} style={{textDecoration: "none", outline: "none" }}>
             <div className='linkedinlogo'>
-              <img src='../src/images/linkedin.png'/>
+              <img src='assets/linkedin.png'/>
             </div>
           </a>
 
           <a href='https://instagram.com' target={'_blank'} style={{textDecoration: "none", outline: "none" }}>
             <div className='instagramlogo'>
-              <img src='../src/images/instagram.png'/>
+              <img src='assets/instagram.png'/>
             </div>
           </a>
 
             <a href='https://facebook.com' target={'_blank'} style={{textDecoration: "none", outline: "none" }}>
             <div className='facebooklogo'>
-              <img src='../src/images/facebook.png'/>
+              <img src='assets/facebook.png'/>
             </div>
           </a>
           </div>
