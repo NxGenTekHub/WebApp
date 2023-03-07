@@ -163,6 +163,7 @@ const NavigationBar = () => {
               !menuOpen ? 
                 <OpenMenu className='menuBtn' onClick={() => setMenuOpen(true)}/> : 
                 <HideMenu className='hideBtn' onClick={() => setMenuOpen(false)}/>
+                Test commit for deployment
             }
           </div>
         </div> */}
