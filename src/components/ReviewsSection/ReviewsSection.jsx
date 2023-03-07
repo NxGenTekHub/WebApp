@@ -15,7 +15,7 @@ const ReviewsSection = () => {
       <div className="allReviews">
         <div className="review">
           <div className="profilePic">
-            <img src="assets/ProPic.jpeg" />
+            <img src="/assets/ProPic.jpeg" />
           </div>
           <div className="reviewText">
             <div className="reviewerName">
@@ -31,7 +31,7 @@ const ReviewsSection = () => {
         </div>
         <div className="review">
           <div className="profilePic">
-            <img src="assets/ProPic.jpeg" />
+            <img src="/assets/ProPic.jpeg" />
           </div>
           <div className="reviewText">
             <div className="reviewerName">
@@ -47,7 +47,7 @@ const ReviewsSection = () => {
         </div>
         <div className="review">
           <div className="profilePic">
-            <img src="assets/ProPic.jpeg" />
+            <img src="/assets/ProPic.jpeg" />
           </div>
           <div className="reviewText">
             <div className="reviewerName">
@@ -63,7 +63,7 @@ const ReviewsSection = () => {
         </div>
         <div className="review">
           <div className="profilePic">
-            <img src="assets/ProPic.jpeg" />
+            <img src="/assets/ProPic.jpeg" />
           </div>
           <div className="reviewText">
             <div className="reviewerName">

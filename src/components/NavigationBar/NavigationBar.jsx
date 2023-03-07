@@ -25,7 +25,7 @@ const NavigationBar = () => {
         <div className="leftSection">
           <a href='https://nxgentekhub.com' target={'_blank'} style={{textDecoration: "none", outline: "none"}}>
             <div className='companyLogo'>
-              <img src='assets/logo1234.png'/>
+              <img src='/assets/logo1234.png'/>
               <h1>NxGenTekHub</h1>
             </div>
           </a>
@@ -134,19 +134,19 @@ const NavigationBar = () => {
           
           <a href='https://linkedin.com' target={'_blank'} style={{textDecoration: "none", outline: "none" }}>
             <div className='linkedinlogo'>
-              <img src='assets/linkedin.png'/>
+              <img src='/assets/linkedin.png'/>
             </div>
           </a>
 
           <a href='https://instagram.com' target={'_blank'} style={{textDecoration: "none", outline: "none" }}>
             <div className='instagramlogo'>
-              <img src='assets/instagram.png'/>
+              <img src='/assets/instagram.png'/>
             </div>
           </a>
 
             <a href='https://facebook.com' target={'_blank'} style={{textDecoration: "none", outline: "none" }}>
             <div className='facebooklogo'>
-              <img src='assets/facebook.png'/>
+              <img src='/assets/facebook.png'/>
             </div>
           </a>
           </div>
